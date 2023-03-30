@@ -63,7 +63,7 @@ Follow these steps to index a span tag or process to create a Troubleshooting Me
 
 1. To get to the :guilabel:`APM MetricSets` page, do one of the following: 
   
-   a. In Splunk APM, select :guilabel:`APM Configuration` and select :guilabel:`APM MetricSets` from the menu. The APM MetricSets page opens.
+   a. On the Splunk APM overview page, select :guilabel:`APM Configuration` and select :guilabel:`APM MetricSets` from the menu. The APM MetricSets page opens.
    b. From anywhere in Splunk Observability Cloud, select :guilabel:`Settings` in the left navigation bar and select :guilabel:`APM MetricSets` under :guilabel:`Data Configuration`.   
 
 2. On the :guilabel:`APM MetricSets` page, select :strong:`New MetricSet`.
